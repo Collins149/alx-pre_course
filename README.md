@@ -1,2 +1,1 @@
-my edited first readme
-README update from github.com
+i am yet to become a software engineer
